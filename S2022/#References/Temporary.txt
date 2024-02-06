@@ -1,0 +1,5 @@
+sqrt FANUC
+https://www.robot-forum.com/robotforum/thread/13210-is-there-a-way-to-calculate-the-square-root/
+
+newton's approximation accuracy
+https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf
