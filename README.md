@@ -4,6 +4,8 @@ Code & documents for academic reference to teach programming of FANUC robot arms
 ---
 See [F2021/SWAP_CYLNDRS Development Guide](F2021/SWAP_CYLNDRS%20Development%20Guide.pdf) for an introductory guide to programming FANUC robot arms.
 
+![SWAP_CYLNDRS Video](F2021/SWAP_CYLNDRS.mp4)
+
 See [S2022](S2022) for some more advanced program examples.
 
 See the timestamp .xlsx documents for a rough timeframe required to learn specific FANUC robot subjects via self-study as a student.
